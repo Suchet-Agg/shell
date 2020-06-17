@@ -2,9 +2,6 @@
 
 The given implementation of shell is capable of handling simple commands present in any UNIX/Linux Distribution such as ls, cat, etc.
 
-![Pics](https://raw.githubusercontent.com/asmitks/images/master/pvz.png)
-
-(
 ## Getting Started
 
 An implementation of a basic shell in C.
